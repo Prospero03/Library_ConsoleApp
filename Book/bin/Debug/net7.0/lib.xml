@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Book>
-    <Author>gg</Author>
-    <Name>Неизвестна</Name>
+    <Author>Сапковский Анджей</Author>
+    <Name>Ведьмак "Владычица Озера"</Name>
+    <Year>2020</Year>
+    <PageCount>544</PageCount>
+  </Book>
+  <Book>
+    <Author>Лев Толстой</Author>
+    <Name>Война и Мир (Том 3-4)</Name>
+    <Year>2023</Year>
+    <PageCount>1024</PageCount>
+  </Book>
+  <Book>
+    <Author>Александр Пушкин</Author>
+    <Name>Капитанская Дочка</Name>
     <Year>Неизвестно</Year>
+    <PageCount>192</PageCount>
+  </Book>
+  <Book>
+    <Author>Джоан Роулинг</Author>
+    <Name>Гарри Поттер и Философский Камень</Name>
+    <Year>2022</Year>
     <PageCount>Неизвестно</PageCount>
+  </Book>
+  <Book>
+    <Author>Неизвестен</Author>
+    <Name>Ночь в Лиссабоне</Name>
+    <Year>2017</Year>
+    <PageCount>320</PageCount>
   </Book>
 </ArrayOfBook>

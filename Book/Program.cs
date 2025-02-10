@@ -154,6 +154,10 @@ namespace Library
 
         private static void List()
         {
+            Console.WriteLine("");
+            Console.WriteLine("Ваша Библиотека:");
+            Console.WriteLine("");
+
             foreach (Book book in books)
             {
                 Console.WriteLine("Название: {0}, Автор: {1}, Год Издания: {2}, Количество Страниц: {3}", book.Name, book.Author, book.Year, book.PageCount);     
